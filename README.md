@@ -1,2 +1,2 @@
 pending.....
-auth pending 
+auth
